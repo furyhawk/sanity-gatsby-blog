@@ -21,7 +21,7 @@ export default {
                 {
                   buildHookId: "6124f24a256c8d2eb4c20099",
                   title: "Blog Website",
-                  name: "sanity-gatsby-blog-web-yy83g4vz",
+                  name: "furyhawk",
                   apiId: "bc40b7b7-7143-4fb5-9203-4b45c7fcd71f",
                 },
               ],
@@ -37,7 +37,7 @@ export default {
           },
           {
             title: "Frontend",
-            value: "https://sanity-gatsby-blog-web-yy83g4vz.netlify.app",
+            value: "https://furyhawk.netlify.app",
             category: "apps",
           },
         ],
